@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Serilog;
 
 namespace Grand.Web
-{ 
+{
     /// <summary>
     /// Represents startup class of application
     /// </summary>
